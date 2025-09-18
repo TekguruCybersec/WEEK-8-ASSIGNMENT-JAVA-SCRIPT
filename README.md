@@ -1,4 +1,5 @@
 🛡️ SecureCorp - Cybersecurity Solutions
+
 A fully responsive, modern website template built with vanilla HTML, CSS, and JavaScript. This project serves as a marketing site for a cybersecurity company, highlighting their services and expertise.
 
 📂 Features
@@ -8,6 +9,7 @@ A fully responsive, modern website template built with vanilla HTML, CSS, and Ja
 ✅ Functional Contact Form – Built-in form for lead generation and client inquiries.
 ✅ Pure Vanilla Stack – No frameworks or external dependencies required.
 
+
 📁 Project Structure
 /securecorp-website
   ├── index.html        # Main landing page
@@ -16,6 +18,8 @@ A fully responsive, modern website template built with vanilla HTML, CSS, and Ja
   ├── js/
   │     └── main.js     # UI logic and animations
   └── images/           # Placeholder images & assets
+
+  
 🛠️ Getting Started
 Clone the repo
 
@@ -28,6 +32,7 @@ Open in browser
 Simply open index.html in your web browser to preview the site. No build tools are needed.
 
 🎨 Customization
+
 Styling: Modify colors and fonts in css/style.css.
 
 Content: Edit text and update images directly within the .html files.
@@ -35,4 +40,5 @@ Content: Edit text and update images directly within the .html files.
 Assets: Replace the placeholder images in the /images/ folder with your own.
 
 📜 License
+
 This project is licensed under the MIT License – feel free to use, modify, and share.
