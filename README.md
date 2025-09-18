@@ -25,7 +25,7 @@ Clone the repo
 
 Bash
 
-git clone https://github.com/your-username/securecorp-website.git
+git clone (https://tekgurucybersec.github.io/WEEK-8-ASSIGNMENT-JAVA-SCRIPT/#hero)
 cd securecorp-website
 Open in browser
 
